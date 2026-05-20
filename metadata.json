@@ -1,6 +1,0 @@
-{
-  "name": "API Integration Assistant",
-  "description": "An interactive environment for integrating third-party APIs, building custom interfaces, and completing your full-stack projects.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
